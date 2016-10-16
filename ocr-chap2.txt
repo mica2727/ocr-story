@@ -1,1 +1,3 @@
+Chapitre 2 : OpenClassRoom Exercice
+========================
 Hélas ce n'était sans compter cette exercice qui demande d'effectuer des actions entre mon repository et github surtout quand on est sur une autre plate forme que github à la base...
