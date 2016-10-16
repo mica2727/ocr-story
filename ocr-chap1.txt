@@ -1,1 +1,3 @@
+Chapitre 1 : OpenClassRoom Exercice
+========================
 Il était une fois un utilisateur de OpenClassRooms qui apprends comment utiliser Git, il trouva cela super passionnant...
